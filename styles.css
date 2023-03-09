@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/*
+Meme cat wiki
+New prespectives on cats
+
+Author: Vicente Pina
+Date: 02/06/2023
+
+*/
+
+img{
+    display: flex;
+    flex-flow: row wrap;
+    width: 20%;
+}
